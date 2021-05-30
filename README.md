@@ -276,5 +276,4 @@ while running:
     
     pygame.display.flip()
     pygame.time.wait(500)    
-        
 pygame.quit()
