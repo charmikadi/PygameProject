@@ -275,5 +275,5 @@ while running:
     pygame.draw.ellipse(screen, GREY, pygame.Rect(randpos3))
     
     pygame.display.flip()
-    pygame.time.wait(500)    
+    pygame.time.wait(500)   
 pygame.quit()
