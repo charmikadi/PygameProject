@@ -152,7 +152,6 @@ while running:
     
     drawGrass(screen, 360, 185)
     
-# -----------------------------------------------------------------------------
 
 # MICKEY MOUSE
 
@@ -218,7 +217,6 @@ while running:
 # Mickey Mouse's nose
     pygame.draw.ellipse(screen,BLACK, pygame.Rect(380, 210,38, 22))
     
-# -----------------------------------------------------------------------------
     
 # Clouds and Sun
     pygame.draw.ellipse(screen,YELLOW, pygame.Rect(550, 15, 125, 85))
