@@ -1,4 +1,4 @@
-
+# import modules
 import pygame, random, math
 pygame.init()
 SIZE = (800, 600)
